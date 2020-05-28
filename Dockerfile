@@ -1,5 +1,5 @@
 # docker build -t springbootapp .
-# docker run -t springbootapp
+# docker run -p 8080:8080 -t springbootapp
 FROM openjdk:8-jdk-alpine
 VOLUME /tmp
 COPY target/RestApp-0.0.1-SNAPSHOT.jar RestApp-0.0.1-SNAPSHOT.jar
