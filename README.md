@@ -1,4 +1,4 @@
-# RestApp
+# [RestApp](https://medium.com/@urbanswati/deploying-spring-boot-restapi-using-docker-maven-heroku-and-accessing-it-using-your-custom-aa04798c0112)
 
 This is just a template repo for Dockerizing a Maven Springboot Application.
 
@@ -77,3 +77,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 * Maven
 * Docker
 * and others
+
+# [Spring Boot + Spring data JPA + PostgreSQL](https://mkyong.com/spring-boot/spring-boot-spring-data-jpa-postgresql/)
